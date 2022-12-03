@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Devanagari:wght@600&family=Zen+Dots&display=swap');
+
 *,
 *::before,
 *::after {
@@ -6,6 +8,7 @@
   box-sizing: border-box;
 }
 
-.main__logo {
-  border-radius: 100px;
+body {
+  font-family: 'Anek Devanagari', sans-serif;
+  font-family: 'Zen Dots', cursive;
 }
